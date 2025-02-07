@@ -20,7 +20,7 @@ This is a small interactive game developed to demonstrate the use of **HTML, CSS
 5. Once guessed, the game will display the number of attempts and allow you to restart the game.
 
 ## 🎮 View of the game
-![Game image](assets\screenshot_game.jpg)
+![Game image](assets/screenshot_game.jpg)
 
 You can run the game by opening the `index.html` file in your browser.
 
