@@ -53,7 +53,7 @@ body::before {
     padding: 3rem;
 }
 
-.container__boton {
+.container__button {
     border-radius: 16px;
     background: #1875E8;
     padding: 16px 24px;
@@ -64,15 +64,15 @@ body::before {
     margin-top: 2rem;
 }
 
-.container__boton:disabled {
+.container__button:disabled {
     background: #898989;
 }
 
-.container__texto {
+.container__text {
     margin: 16px 0 16px 0;
 }
 
-.container__texto-azul {
+.container__text-azul {
     color: #1875E8;
 }
 
@@ -89,7 +89,7 @@ body::before {
     font-family: 'Inter', sans-serif;
 }
 
-.container__botones {
+.container__buttons {
     display: flex;
     gap: 2em;
 }
@@ -105,7 +105,7 @@ button {
     font-family: 'Inter', sans-serif;
 }
 
-.texto__parrafo {
+.paragraph__text {
     font-size: 32px;
     font-weight: 400;
 }
