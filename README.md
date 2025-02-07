@@ -27,5 +27,5 @@ You can run the game by opening the `index.html` file in your browser.
 ## 📌 Future Improvements
 
 - Add sound effects when hitting or failing.
-- Improve the interface with new ia image, colors and animations.
+- Improve the interface with new AI image, colors and animations.
 - Allow choosing the game language.
