@@ -11,7 +11,7 @@ This is a small interactive game developed to demonstrate the use of **HTML, CSS
 - The game avoids repeating numbers already drawn until the options are exhausted.
 - The game can be restarted without having to reload the page.
 
-## 📜 Directions
+## 📜 Usage
 
 1. **Enter the maximum number** that will define the game range.
 2. **Click "Start"** to generate the secret number.
